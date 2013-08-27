@@ -1,8 +1,8 @@
-.h1.logo a {
+#logo a {
     width: 350px;
     margin: 0 auto;
 }
 
-#nav2 {
+#logo {
     background: #fff;
 }
